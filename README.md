@@ -18,9 +18,9 @@
 ## **Setup:**
 - Yêu cầu máy tính cài đầy đủ các thư viện *SDL, SDL_image, SDL_mixer, SDL_ttf*
 1. Mở Code::Blocks và tạo một project mới
-2. Vào file project mới tạo, chuột phải chọn Terminal và gõ lệnh: git clone
-```https://github.com/Huynn29/Minesweeper```
-3. Mở file và chơi.
+2. Vào file project mới tạo, chuột phải chọn Terminal và gõ lệnh:
+```git clone https://github.com/Huynn29/Minesweeper```
+4. Mở file và chơi.
 
 ## **Tham khảo:**
 - Tham khảo từ kênh [Youtube](https://www.youtube.com/@nghiaha9702)
