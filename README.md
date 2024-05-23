@@ -5,6 +5,7 @@
 ## **Mô tả:**
 - Lấy cảm hứng và dựa trên tựa game [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)) của Microsoft.
 - Ấn chuột trái để mở ô tương ứng. Số hiện lên biểu thị cho số mìn ở 8 ô xung quanh nó. Mở vào mìn, bạn thua; khi số lượng ô chưa mở còn lại bằng số mìn, bạn thắng.
+- Xem video demo tại [đây](https://youtu.be/-O---7CyQZM)
 ## **Cách chơi:**
 - Trong Dò mìn, người chơi phải mở được tất cả các ô không có mìn trên một bảng ô vuông, đồng thời không được kích nổ bất cứ một quả mìn nào. Trò chơi được xếp hạng bằng thời gian hoàn thành, vì vậy việc hoàn thành trò chơi trong thời gian sớm nhất cũng là một mục tiêu quan trọng đối với người chơi đã thành thạo.
 #### Có 4 chế độ chơi tương ứng với từng độ khó:
