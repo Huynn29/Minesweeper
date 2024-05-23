@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Minesweeper" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Minesweeper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="variable" />
+					<Add directory="Texture" />
+					<Add directory="constant" />
+					<Add directory="Buttons" />
+					<Add directory="function" />
+					<Add directory="Timer" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Minesweeper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="variable" />
+					<Add directory="Texture" />
+					<Add directory="constant" />
+					<Add directory="Buttons" />
+					<Add directory="function" />
+					<Add directory="Timer" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Buttons/Buttons.cpp" />
+		<Unit filename="Buttons/Buttons.h" />
+		<Unit filename="Texture/Texture.cpp" />
+		<Unit filename="Texture/Texture.h" />
+		<Unit filename="Timer/Timer.cpp" />
+		<Unit filename="Timer/Timer.h" />
+		<Unit filename="constant/constant.h" />
+		<Unit filename="function/function.cpp" />
+		<Unit filename="function/function.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="variable/variable.cpp" />
+		<Unit filename="variable/variable.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
