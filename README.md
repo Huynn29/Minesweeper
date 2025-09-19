@@ -24,5 +24,4 @@
 4. Mở file Minesweeper.cbp và trai nghiem.
 
 ## **Tham khảo:**
-- Tham khảo từ kênh [Youtube](https://www.youtube.com/@nghiaha9702)
 - Dùng [Chat GPT](https://chatgpt.com/?oai-dm=1) để fix bug
