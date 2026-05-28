@@ -22,6 +22,3 @@
 2. Vào file project mới tạo, chuột phải chọn Terminal và gõ lệnh:  
 ```git clone https://github.com/Huynn29/Minesweeper```
 4. Mở file Minesweeper.cbp và trai nghiem.
-
-## **Tham khảo:**
-- Dùng [Chat GPT](https://chatgpt.com/?oai-dm=1) để fix bug
